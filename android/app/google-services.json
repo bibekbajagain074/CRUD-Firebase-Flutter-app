@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891049747543",
+    "project_id": "ceud-at-firebase",
+    "storage_bucket": "ceud-at-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891049747543:android:8eb642709e80418b1bef12",
+        "android_client_info": {
+          "package_name": "com.example.demo_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891049747543-58u8e4kcl5d5p9n8tlslluoouquarpn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATYQ5g4s-_ih1270-u6-4CC1zeEmuABbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891049747543-58u8e4kcl5d5p9n8tlslluoouquarpn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
